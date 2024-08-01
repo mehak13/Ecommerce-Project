@@ -1,0 +1,35 @@
+
+header {
+  display: flex;
+  justify-content: space-between;
+  padding: 10px;
+  background-color: #333;
+  color: white;
+}
+
+nav ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  gap: 15px;
+}
+
+nav ul li {
+  display: inline;
+}
+
+nav ul li a, nav ul li span {
+  color: white;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+button {
+  background: none;
+  border: none;
+  color: white;
+  cursor: pointer;
+}
+
+  

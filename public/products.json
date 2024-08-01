@@ -1,0 +1,45 @@
+[
+    {
+      "id": 1,
+      "name": "Hershey's chocolate",
+      "price": 399,
+      "description": "Description for product 1",
+      "image": "https://images.pexels.com/photos/1022417/pexels-photo-1022417.jpeg?auto=compress&cs=tinysrgb&w=600"
+    },
+    {
+      "id": 2,
+      "name": "Android Phone",
+      "price": 49999,
+      "description": "Description for product 2",
+      "image": "https://images.pexels.com/photos/887751/pexels-photo-887751.jpeg?auto=compress&cs=tinysrgb&w=600"
+    },
+    {
+      "id": 3,
+      "name": "Wall Painting",
+      "price": 1200,
+      "description": "Description for product 3",
+      "image": "https://images.pexels.com/photos/8903651/pexels-photo-8903651.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+    {
+      "id": 4,
+      "name": "Flower Vase",
+      "price": 900,
+      "description": "Description for product 4",
+      "image": "https://images.pexels.com/photos/2292080/pexels-photo-2292080.jpeg?auto=compress&cs=tinysrgb&w=600"
+    },
+    {
+      "id": 5,
+      "name": "Curtains",
+      "price": 3999,
+      "description": "Description for product 5",
+      "image": "https://images.pexels.com/photos/462197/pexels-photo-462197.jpeg?auto=compress&cs=tinysrgb&w=600"
+    },
+    {
+      "id": 6,
+      "name": "Water Bottle",
+      "price": 999,
+      "description": "Description for product 6",
+      "image": "https://images.pexels.com/photos/1342529/pexels-photo-1342529.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    }
+  ]
+  
